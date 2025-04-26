@@ -1,6 +1,6 @@
 # Descobrimento do Brasil
 
-Este projeto tem como objetivo explorar e documentar fatos, eventos e curiosidades sobre o Descobrimento do Brasil. Aqui você encontrará informações históricas, referências bibliográficas e recursos para estudo.
+Landing page sobre o Descobrimento do Brasil.
 
 ## Estrutura do Projeto
 
