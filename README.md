@@ -12,7 +12,3 @@ Landing page sobre o Descobrimento do Brasil.
 1. Faça um fork deste repositório.
 2. Crie uma branch para sua feature ou correção.
 3. Envie um pull request com uma descrição detalhada.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT.
